@@ -41,6 +41,16 @@
 ## ✦ Стек
 
 <table>
+    <tr>
+    <td><b>Веб</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SeaweedFS-2E7D32?style=for-the-badge&logoColor=white" />
+    </td>
+  </tr>
   <tr>
     <td width="170"><b>Python и ML</b></td>
     <td>
@@ -97,11 +107,14 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DarumOrt/HeliosEDU">HeliosEDU</a></h3>
-      Собственная LMS-платформа, альтернатива Moodle. Модульный монолит со встроенным ИИ-ревьюером кода.
+      Собственная LMS-платформа, альтернатива Moodle.
       <br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/GigaChat_API-21A038?style=flat-square" />
+      <img src="https://img.shields.io/badge/LMS-F98012?style=for-the-badge&logo=moodle&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SeaweedFS-2E7D32?style=for-the-badge&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://teormin.ru/">TeorMin</a></h3>
