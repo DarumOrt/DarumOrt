@@ -1,10 +1,10 @@
 <!-- ═══════════════ ШАПКА ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6A1B9A&height=190&section=header&text=Иван%20DarumOrt&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Преподаватель%20·%20Магистрант%20по%20ИИ%20в%20образовании&descSize=16&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6A1B9A&height=190&section=header&text=%D0%98%D0%B2%D0%B0%D0%BD%20DarumOrt&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=%D0%9F%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%20%C2%B7%20%D0%9C%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%82%20%D0%BF%D0%BE%20%D0%98%D0%98%20%D0%B2%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8&descSize=16&descAlignY=58&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6A8DFF&center=true&vCenter=true&width=640&lines=Преподаю+ИИ,+машинное+обучение+и+программирование;Разрабатываю+LMS-платформу+HeliosEDU;Делаю+TeorMin+—+портал+для+подготовки+к+ОГЭ%2FЕГЭ;Исследую+ИИ+в+образовании" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6A8DFF&center=true&vCenter=true&width=640&lines=%D0%9F%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D1%8E%20%D0%98%D0%98%2C%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5;%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D1%8E%20LMS-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%83%20HeliosEDU;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E%20TeorMin%20-%20%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%20%D0%9E%D0%93%D0%AD%2F%D0%95%D0%93%D0%AD;%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%20%D0%98%D0%98%20%D0%B2%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## ✦ Обо мне
 
-▸ Преподаватель колледжа в Перми.
+▸ Преподаватель колледжа в Перми. 
 ▸ Магистрант программы «Педагогическое образование», профиль «Искусственный интеллект»  
 ▸ Разрабатываю образовательные сервисы: собственную LMS и портал по математике  
 ▸ Интересуюсь ИИ в обучении: автоматическая проверка кода, интеллектуальные помощники  
@@ -71,6 +71,7 @@
     <td><b>ИИ-сервисы</b></td>
     <td>
       <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+      <img src="https://img.shields.io/badge/GigaChat_API-21A038?style=for-the-badge&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -127,8 +128,12 @@
 ## ✦ Статистика
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DarumOrt&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarumOrt&layout=compact&theme=tokyonight&hide_border=true&locale=ru" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</p>
+
+<p align="center">
+  <img height="180" src="profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="180" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
